@@ -1,1 +1,18 @@
-### Hi, I´m ItzMxritz 👋
+### 📫 Kontaktmöglichkeiten
+
+- Discord: <a href='https://discordapp.com/users/551484328245329920'>Moritz G.#5427</a>
+- Discord Server: <a href='https://dc.blockpixels.de'>https://dc.blockpixels.de</a>
+
+<br />
+
+### 🌐 Programmiersprachen, Programme, Tools und mehr...
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+
+<br />
+
+### 🚀 Statistiken
+
+<img src='https://github-readme-streak-stats.herokuapp.com?user=HttxMxritz&theme=highcontrast'>
+
+<br />
