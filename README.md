@@ -1,7 +1,7 @@
 ### 📫 Kontaktmöglichkeiten
 
-- Discord: <a href='https://discordapp.com/users/551484328245329920'>Moritz G.#5427</a>
-- Discord Server: <a href='https://dc.blockpixels.de'>https://dc.blockpixels.de</a>
+- Discord: <a href='https://discordapp.com/users/1105751922620780625'>itzmxritz</a>
+- Discord Server: <a href='https://shardmc.net/go/dc'>https://shardmc.net/go/dc</a>
 
 <br />
 
@@ -13,6 +13,6 @@
 
 ### 🚀 Statistiken
 
-<img src='https://github-readme-streak-stats.herokuapp.com?user=HttxMxritz&theme=highcontrast'>
+<img src='https://github-readme-streak-stats.herokuapp.com?user=itzmxritz&theme=highcontrast'>
 
 <br />
